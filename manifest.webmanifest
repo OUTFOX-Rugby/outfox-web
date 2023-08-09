@@ -1,0 +1,15 @@
+{
+    "name": "OUTFOX Rugby",
+    "short_name": "OUTFOX Rugby",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#00357F",
+    "theme_color": "#000",
+    "description": "",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
