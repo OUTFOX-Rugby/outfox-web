@@ -1,9 +1,9 @@
 const cacheName = "OUTFOX-OUTFOX Rugby-1.0.0.1";
 const contentToCache = [
     "Build/outfox-web.loader.js",
-    "Build/outfox-web.framework.js.gz",
-    "Build/outfox-web.data.gz",
-    "Build/outfox-web.wasm.gz",
+    "Build/outfox-web.framework.js",
+    "Build/outfox-web.data",
+    "Build/outfox-web.wasm",
     "TemplateData/style.css"
 
 ];
